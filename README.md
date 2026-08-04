@@ -46,27 +46,27 @@ Stakeholder communication generated through an AI-assisted review workflow.
 
 Requirements
 
-↓
+      ↓
 
-Planning
+      Planning
 
-↓
+   ↓
 
-Jira
+  Jira
 
-↓
+   ↓
 
 AI-assisted Engineering
 
-↓
+   ↓
 
 Git Collaboration
 
-↓
+   ↓
 
 Release Readiness
 
-↓
+   ↓
 
 Stakeholder Communication
 
