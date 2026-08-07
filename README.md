@@ -44,31 +44,31 @@ Stakeholder communication generated through an AI-assisted review workflow.
 
 ## Engineering Workflow
 
-Requirements
+       Requirements
 
-      ↓
+            ↓
 
-      Planning
+         Planning
+    
+            ↓
 
-       ↓
+          Jira
 
-     Jira
+            ↓
 
-       ↓
+    AI-assisted Engineering
 
-   AI-assisted Engineering
+            ↓
 
-      ↓
+     Git Collaboration
 
-    Git Collaboration
+            ↓
 
-      ↓
+     Release Readiness
+ 
+            ↓
 
-   Release Readiness
-
-           ↓
-
-       Stakeholder Communication
+    Stakeholder Communication
 
 ---
 
