@@ -67,14 +67,6 @@ The HelpDesk Lite web demo provides an interface for managing internal support t
 - Code Review Response Plan
 - Merge and Release Checklist
 
-### Stakeholder Communication
-
-- Objective and Audience Definition
-- Message Structure
-- AI Prompt and First Output
-- Review and Improved Version
-- Final Deliverable
-
 ### Project Demo
 
 - Project Demo Structure
@@ -108,7 +100,6 @@ HelpDesk_Lite/
 │   ├── project-management/
 │   ├── ai-workflow/
 │   ├── collaboration/
-│   ├── communication/
 │   └── project-demo/
 │
 └── README.md
