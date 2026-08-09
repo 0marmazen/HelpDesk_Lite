@@ -1,4 +1,3 @@
-
 ## Project Management Evidence
 
 ### Jira Board
@@ -20,7 +19,3 @@
 ### Jira Timeline
 
 ![Jira Timeline](../../assets/jira/jira-timeline.png)
-
-### Jira Work Items
-
-![Jira Work Items](../../assets/jira/jira-work-items-list.png)
