@@ -7,6 +7,7 @@ This repository documents the complete engineering process behind the project, f
 ## Live Demo
 
 🌐 https://helpdesklit.lovable.app/
+![HelpDesk Lite Login](assets/demo/login.png)
 
 > **Note:** The current live demo is a front-end prototype built with Lovable to demonstrate the user interface and user experience. The application is planned to be connected to a real backend in future iterations.
 
@@ -28,9 +29,8 @@ The HelpDesk Lite web demo provides an interface for managing internal support t
 
 ![HelpDesk Lite Ticket Details](assets/demo/ticket-details.png)
 
-### Login
 
-![HelpDesk Lite Login](assets/demo/login.png)
+
 
 ---
 
