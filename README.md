@@ -81,19 +81,10 @@ The HelpDesk Lite web demo provides an interface for managing internal support t
 
 ```text
 HelpDesk_Lite/
+│
 ├── assets/
 │   ├── demo/
-│   │   ├── dashboard.png
-│   │   ├── tickets.png
-│   │   ├── ticket-details.png
-│   │   └── login.png
 │   └── jira/
-│       ├── jira-sprint-1-backlog.png
-│       ├── jira-project-summary.png
-│       ├── jira-timeline.png
-│       ├── jira-work-items-list.png
-│       ├── jira-reports.png
-│       └── jira-board.png
 │
 ├── docs/
 │   ├── requirements/
